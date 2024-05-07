@@ -7,11 +7,8 @@
 <br>
 <!--
 - 👋 Hi, I’m a Computers and Controls systems student at Mansoura University
-
 - 🌱 I’m currently learning data science and especially interseted in Machine Learning and Deep Learning
-  
 - 💞️ I’m looking for ML project ideas and to collaborate on ML projects
-  
 📩 Connect with me
 -->
 <p align="center">
