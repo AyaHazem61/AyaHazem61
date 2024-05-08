@@ -5,12 +5,12 @@
 </p>
 
 <br>
-<!--
-- 👋 Hi, I’m a Computers and Controls systems student at Mansoura University
+
+- 👋 Hi, I’m a CCSE "Computers and Controls Systems Engineering" student at Mansoura University
 - 🌱 I’m currently learning data science and especially interseted in Machine Learning and Deep Learning
 - 💞️ I’m looking for ML project ideas and to collaborate on ML projects
-📩 Connect with me
--->
+- 📩 Connect with me
+
 <p align="center">
 <a href="mailto:aya.hazem6103@gmail.com"title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/aya.hazem.12532/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -29,9 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaHazem61&theme=tokyonight_duo" alt="AyaHazem61" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaHazem61&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AyaHazem61" height="480px"/>
-</p>
+
 
 
 
