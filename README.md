@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aya Hazem</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayahazem61&label=Profile%20views&color=0e75b6&style=flat" alt="ayahazem61" />
-                   <img src="https://img.shields.io/github/followers/ayahazem61?label=Followers" alt="ayahazem61" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayahazem6103&label=Profile%20views&color=0e75b6&style=flat" alt="ayahazem6103" />
+                   <img src="https://img.shields.io/github/followers/ayahazem6103?label=Followers" alt="ayahazem6103" />
 </p>
 
 <br>
@@ -21,12 +21,12 @@
 ## 📊 MY Github Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyaHazem61&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="Aya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AyaHazem6103&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaHazem61&theme=tokyonight_duo" alt="AyaHazem61" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaHazem6103&theme=tokyonight_duo" alt="AyaHazem6103" />
 </p>
 
 
@@ -37,7 +37,7 @@
 ----
 <!-- <summary><b>⚡ Git profile Trophies</b></summary>
  -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyaHazem61&layout=compact&theme=algolia" alt="AyaHazem61" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyaHazem6103&layout=compact&theme=algolia" alt="AyaHazem6103" /></a> </p>
 
 ---- -->
 <!-- 
